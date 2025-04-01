@@ -24,16 +24,16 @@ Audit: [Certik](https://skynet.certik.com/), [CyberScope](https://www.cyberscope
 ## II. Roadmap
 
 Phase 1:
-
 - Webapp Developer
 - Launch on BNB Chain Testnet
 - BNB Chain ecosystem engagement
-Phase 2:
 
+Phase 2:
 - Private,Public Sale & Token Launch
 - Listing on Top DEXs
 - Launch Staking Program
 - Certik Audit
+
 Phase 3:
 - Lauch Lotery Program
 - AI Chatbot new version
